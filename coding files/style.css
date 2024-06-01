@@ -1,0 +1,28 @@
+.hello
+{
+    align: center;
+    text-align: center;
+    background-color: paleturquoise;
+}
+.Aminul
+{
+    color: rgb(242, 154, 154);
+    align-items: center;
+    text-align: center;
+    font-size: large;
+    
+}
+.about-me
+{
+    align-items: center;
+}
+.a
+{
+    text-align: center;
+}
+.skill
+{
+    background-color: #3498db;
+    padding: 5px 3px 5px;
+    
+}
