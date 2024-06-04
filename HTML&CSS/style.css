@@ -1,0 +1,21 @@
+.navbar ul{
+
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    background-color: rgb(170, 236, 238);
+}
+.navbar a
+{
+    text-decoration: none;
+    padding: 7px;
+    margin: 5px;
+    display: block;
+    text-align: center;
+    justify-content: none;
+}
+.navbar li
+{
+    float: left;
+}
